@@ -40,6 +40,9 @@ GitHub Issue: https://github.com/fattank/gpt_academic_localhost
 
 学术GPT本地化版遵循MIT许可证发布，请参阅附带的LICENSE文件了解详细信息。
 
+## 演示图片和动画
+
+
 致谢
 
 感谢所有对学术GPT项目做出贡献的开发者和贡献者，以及社区中不断提出宝贵意见的用户们。
