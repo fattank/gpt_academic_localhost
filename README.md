@@ -41,7 +41,9 @@ GitHub Issue: https://github.com/fattank/gpt_academic_localhost
 学术GPT本地化版遵循MIT许可证发布，请参阅附带的LICENSE文件了解详细信息。
 
 ## 演示图片和动画
-
+![翻译功能演示](https://github.com/fattank/gpt_academic_localhost/blob/main/12%E6%9C%8829%E6%97%A5%20-%E5%90%88%E6%88%90%E5%B1%95%E7%A4%BA.gif)
+![基础函数新增的功能](https://github.com/fattank/gpt_academic_localhost/blob/main/%E5%AD%A6%E6%9C%AF%E7%95%8C%E9%9D%A2%E8%A7%A3%E8%AF%BB.png)
+![函数插件区新增功能](https://github.com/fattank/gpt_academic_localhost/blob/main/%E5%AD%A6%E6%9C%AF%E7%95%8C%E9%9D%A2%E8%A7%A3%E8%AF%BB2.png)
 
 致谢
 
