@@ -25,9 +25,7 @@
 哔哩哔哩 bilibili讲解视频：https://www.bilibili.com/video/BV17T4y1p7zR
 
 ## 购买
-这是购买地址，自动发货。
-50美元apikey http://cdn.952fk.com/details/91129A43
-10美元apikey http://cdn.952fk.com/details/1618AA88
+这是购买地址，自动发货。微信添加Chatgpt-goto
 
 ## 技术支持
 
