@@ -24,6 +24,11 @@
 在软件启动后，用户将看到一个简洁的界面，包括各种功能的入口。选择您需要的功能，如“生成PPT”、“降低文稿重复率”等，然后按照指引完成操作即可。
 哔哩哔哩 bilibili讲解视频：https://www.bilibili.com/video/BV17T4y1p7zR
 
+## 购买
+这是购买地址，自动发货。
+50美元apikey http://cdn.952fk.com/details/91129A43
+10美元apikey http://cdn.952fk.com/details/1618AA88
+
 ## 技术支持
 
 如遇到任何问题或需要技术支持，请发送电子邮件至 [fattankk@gmail.com]。
