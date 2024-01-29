@@ -25,6 +25,9 @@
 哔哩哔哩 bilibili讲解视频：https://www.bilibili.com/video/BV17T4y1p7zR
 QQ:10267672.
 
+哔哩哔哩 学术GPT-科研指导研究方向的插件https://www.bilibili.com/video/BV1ra4y1C7bW
+QQ群：学术GPT-Agent 766091615
+
 ## 购买
 这是购买地址，自动发货。微信添加Chatgpt-goto
 
